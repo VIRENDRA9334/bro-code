@@ -1,4 +1,4 @@
-import StopWatch from "./StopWatch.jsx";
+import Stopwatch from "./Stopwatch.jsx";
 
 function App() {
   return (
